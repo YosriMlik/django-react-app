@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url('./style/fonts/static/Montserrat-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'MontserratItalic';
+  src: url('./style/fonts/static/Montserrat-Italic.ttf') format('truetype');
+}
+
+@import url('./style/bulma.min.css');
+
+
+* {
+  font-family: 'Montserrat', sans-serif;
+}
